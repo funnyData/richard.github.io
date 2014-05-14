@@ -6,14 +6,14 @@ markdown: redcarpet
 author: 
   name: 闫肃
   email: yansu0711@gmail.com
-  link: http://yansu.org
+  link: http://richard.org
   weibo: http://weibo.com/yansu0711
   github: http://github.com/suyan
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: 陈东的博客 
+description: 陈东的博客
+url: http://richard.org
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -23,7 +23,7 @@ favicon: /public/upload/gavatar/favicon.ico
 # google analytics 设置
 ga:
   id: UA-43667383-1
-  url: yansu.org
+  url: richard.org
 
 # disqus 设置
 disqus:
