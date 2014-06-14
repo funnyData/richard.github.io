@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 博客迁移完成
+title: 博客迁移完成,哈哈哈
 category: 工具
 tags: Blog
 description: 花了两天时间，总算写好了自己基于GitHub的博客，把以前wordpress上的文章有用的都移了过来，可以松一口气了
